@@ -1,4 +1,4 @@
-Do_an_cuoi_ky_mon_tri_tue_nhan_tao
+**Do_an_cuoi_ky_mon_tri_tue_nhan_tao**
 1.1. Phát biểu bài toán Đến với đề tài đồ án Trí tuệ nhân tạo lần này, nhóm chúng em quyết định làm trò chơi mang tên “Dream Pursuer” với bản chất là trò chơi vượt mê cung để tìm đường đi ngắn nhất để thoát khỏi mê cung bằng cách áp dụng những thuật toán tìm kiếm đã học ở lớp. Trò chơi của nhóm chúng em được lấy ý tưởng từ trò chơi giải mê cung cổ điển. Từ ý tưởng đó nhóm chúng em mong muốn được xây dựng và phát triển một trò chơi mang hơi hướng như vậy nhưng có những cải tiến và mới mẻ hơn, hợp mắt người chơi hơn. Bên cạnh đó chúng em còn mong muốn góp phần mang lại cho người chơi cảm giác hoài niệm khi chơi những tựa game 2D thời xưa trong thời đại game MOBA, game 3D đang thống trị hiện nay.
 
 1.2. Mục đích và yêu cầu cần thực hiện Mục đích:
